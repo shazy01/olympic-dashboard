@@ -27,5 +27,5 @@ The application should now be accessible via your web browser at http://localhos
 
 Note: Loading the application may take some time as it fetches data from Google Drive. Please be patient during the initial loading process.
 
-Deployed App: https://olympics-dashboard-2cntkmla74ts2afjouwqsx.streamlit.app/
+Deployed App: https://olympic-dashboard-yl83p28tcso4vjamvxttlx.streamlit.app/
 
